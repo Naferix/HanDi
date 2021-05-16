@@ -8,7 +8,7 @@ The HanDi aims to provide a free range of motion for the user and will function 
 ## How we built it
 Using a mixture of c++ on the backend for the functions and arduino as the conduit for the code to run, and coroplast to create the hand, the HanDi comes together to provide a range of motion.
 ## Challenges we ran into
-RIP Michael's sparkling water. Being online proved to be its own challenge because, as we would like to meet up and work together to work on the HanDi together, the work fell on one of our members to do all of the hard physical labor necessary to make the HanDi.
+Being online is, as always, challenging because, as we would like to meet up and work together to work on the HanDi together we were unable to do so causing the work to fall on only one of our members to do all of the hard physical labor necessary to make the HanDi, while another wrote the code to get the HanDi to actually move.
 ## Accomplishments that we're proud of
 Working throughout the night proved to be a valuable bonding experience for our team as we found that we worked best at 4 am.
 ## What we learned

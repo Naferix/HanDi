@@ -1,7 +1,7 @@
 # HanDi
 ![](images/5w3VoJZ.png?raw=true)
 
-Reimagining simple gestures
+<p align=center>Reimagining simple gestures</p>
 ## Inspiration
 For people without the free range of motion that we take for granted, we wanted to create a tool that will give them back that feeling of freedom. There is an estimated 282,000 people currently living with spinal cord injury and the lack of free upper body function leads to a lot of dependence on others which we hope to minimize with our project to improve their quality of life.
 ## What it does
